@@ -1,2 +1,2 @@
 # nlw-web
-Web tier for the Next Level Week Setup event from Rocket Seat that happened on Jan-2023
+Web tier of the project developed for the Next Level Week event from Rocket Seat on Jan-2023
